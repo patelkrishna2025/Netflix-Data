@@ -1,4 +1,4 @@
-# 🎬 Netflix Intelligence System — v2
+# 🎬 Netflix Intelligence System 
 
 ## 📁 Project Structure
 
