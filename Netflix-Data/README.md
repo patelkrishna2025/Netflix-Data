@@ -5,7 +5,7 @@
 ```
 Netflix-Data-main/
 ├── app.py                       ← Streamlit Dashboard (8 tabs)
-├── Netflix Data.ipynb           ← UPDATED — Added Chatbot, CV & ML sections
+├── Netflix Data.ipynb           ← Added Chatbot, CV & ML sections
 ├── netflix1.csv                 ← Dataset (8,790 titles × 10 columns)
 ├── README.md                    ← This file
 │
